@@ -1,0 +1,9 @@
+[submodule "QuizStream-backend"]
+	path = QuizStream-backend
+	url = https://github.com/thezoot3/QuizStream-backend
+[submodule "QuizStream-Sveltepage"]
+	path = QuizStream-Sveltepage
+	url = https://github.com/thezoot3/QuizStream-Sveltepage
+[submodule "QuizStream-CDN"]
+	path = QuizStream-CDN
+	url = https://github.com/thezoot3/QuizStream-CDN
